@@ -1,0 +1,4 @@
+Hi, this is tezt file for testing Pull Request (PR) action.
+Bla-bla-bla.
+New line.
+The End.
